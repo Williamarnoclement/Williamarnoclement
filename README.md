@@ -32,7 +32,7 @@ I'm going to add much more projects here in a near future !
 - [Pathfinding work](https://github.com/Williamarnoclement/tp-plus-court-chemin): written in Python @Cnam ENJMIN in Angoulême
 - [Game of Life Experimentations](https://github.com/Williamarnoclement/tp-game-of-life): written in Python @Cnam ENJMIN in Angoulême
 - [Sorting algorithms](https://github.com/Williamarnoclement/tp-algo-tri): written in Python @Cnam ENJMIN in Angoulême
-- [Web Experiences](https://github.com/Williamarnoclement/ChristmasForce): made with VueJS
+- [Web Experiences](https://github.com/Williamarnoclement/ChristmasForce): made with VueJS @Cnam ENJMIN in Angoulême
 - [Google Forms like](https://github.com/Williamarnoclement/QuizzMe): written in PHP according to MVC pattern design @University of Fontainebleau
 - [Sudoku Grid Maker and Solver](https://github.com/Williamarnoclement/Sudoku): written in JAVA @University of Fontainebleau
 - [Static Professional website](https://github.com/Williamarnoclement/Site-Internet-Professionnel) : written in HTML, CSS and JS @University of Fontainebleau
