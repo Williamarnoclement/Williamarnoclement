@@ -2,7 +2,7 @@ Hello world 👋 Bonjour tout le monde
 
 ### Who I am
 
-My name is William-Arno CLEMENT. I'm currently a working on a computer science and multimedia engineering degree at Cnam ENJMIN, which is the french national school dedicated to the video game industy, computer graphics and digital images.
+My name is William-Arno CLEMENT. I'm currently a working on a computer science and multimedia engineering degree at [Cnam ENJMIN](https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp), which is the french national school dedicated to the video game industy, computer graphics and digital images.
 
 My only dream is to create the sofware that will enable artists to fulfil their vision.
 
