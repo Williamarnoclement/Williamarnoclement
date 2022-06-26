@@ -2,7 +2,7 @@ Hello world 👋 Bonjour tout le monde
 
 ### Who I am
 
-My name is William-Arno CLEMENT. I'm currently a working on a computer science and multimedia engineering degree at [Cnam ENJMIN](https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp), which is the french national school dedicated to the video game industy, computer graphics and digital images.
+My name is William-Arno CLEMENT. I'm currently a working on a computer science and multimedia engineering degree at [Cnam ENJMIN](https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp)/[Cnam Nouvelle-Aquitaine](https://www.cnam-nouvelle-aquitaine.fr), which is the french national school dedicated to the video game industy, computer graphics and digital images.
 
 My only dream is to create the sofware that will enable artists to fulfil their vision.
 
@@ -23,7 +23,7 @@ I'm going to add much more projects here in a near future !
 
 # Personnal Work 
 
-- [Animware](https://github.com/Williamarnoclement/Animware) : Simple 3D animation software in JAVA
+- [Animware](https://github.com/Williamarnoclement/Animware) : A 3D animation software in JAVA
 - [Web Crawler](https://github.com/Williamarnoclement/Crawler) : A monothread web crawler written in JAVA
 
 # Exercices and projects I made
@@ -44,7 +44,7 @@ I'm going to add much more projects here in a near future !
 
 # Old projects I made when I started IT
 
-- [Simple CMS without database](https://github.com/Williamarnoclement/Simple-CMS-Without-DB): Just an old work I made in 2015
+- [CMS without database](https://github.com/Williamarnoclement/Simple-CMS-Without-DB): Just an old work I made in 2015
 
 
 <!--
