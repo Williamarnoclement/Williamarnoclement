@@ -23,7 +23,7 @@ I'm going to add much more projects here in a near future !
 
 # Personnal Work 
 
-- [Animware](https://github.com/Williamarnoclement/Animware) : Simple 3D animation software
+- [Animware](https://github.com/Williamarnoclement/Animware) : Simple 3D animation software in JAVA
 - [Web Crawler](https://github.com/Williamarnoclement/Crawler) : A monothread web crawler written in JAVA
 
 # Exercices and projects I made
