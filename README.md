@@ -37,6 +37,11 @@ I'm going to add much more projects here in a near future !
 - [Sudoku Grid Maker and Solver](https://github.com/Williamarnoclement/Sudoku): written in JAVA @University of Fontainebleau
 - [Static Professional website](https://github.com/Williamarnoclement/Site-Internet-Professionnel) : written in HTML, CSS and JS @University of Fontainebleau
 
+# Professional work
+
+- [Software Directory](https://github.com/Williamarnoclement/Apperture): written in PHP Vanilla @[Mairie de Vitry-sur-Seine, France](https://www.vitry94.fr)
+
+
 # Old projects I made when I started IT
 
 - [Simple CMS without database](https://github.com/Williamarnoclement/Simple-CMS-Without-DB): Just an old work I made in 2015
