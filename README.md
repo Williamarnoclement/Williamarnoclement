@@ -33,6 +33,7 @@ I'm going to add much more projects here in a near future !
 - [Game of Life Experimentations](https://github.com/Williamarnoclement/tp-game-of-life): written in Python @Cnam ENJMIN in Angoulême
 - [Sorting algorithms](https://github.com/Williamarnoclement/tp-algo-tri): written in Python @Cnam ENJMIN in Angoulême
 - [Web Experiences](https://github.com/Williamarnoclement/ChristmasForce): made with VueJS @Cnam ENJMIN in Angoulême
+- [How to use Wordpress API in Swift](https://github.com/Williamarnoclement/Use_Wordpress_API_in_Swift): made with Swift as Side Project
 - [Dungeon Maker](https://github.com/Williamarnoclement/Dungeon_Maker): written in JAVA according to MVC pattern design @University of Fontainebleau
 - [Google Forms like](https://github.com/Williamarnoclement/QuizzMe): written in PHP and the Codeigniter Framework @University of Fontainebleau
 - [Sudoku Grid Maker and Solver](https://github.com/Williamarnoclement/Sudoku): written in JAVA @University of Fontainebleau
