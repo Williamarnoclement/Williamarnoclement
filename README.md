@@ -37,6 +37,7 @@ I'm going to add much more projects here in a near future !
 - [How to use Wordpress API in Swift](https://github.com/Williamarnoclement/Use_Wordpress_API_in_Swift): made with Swift as Side Project
 - [Microblogging Service](https://github.com/Williamarnoclement/Application_web_Microblogging): made with NodeJS @ University of Fontainebleau
 - [Dungeon Maker](https://github.com/Williamarnoclement/Dungeon_Maker): written in JAVA according to MVC pattern design @ University of Fontainebleau
+- [Gold mine simulation exercice](https://github.com/Williamarnoclement/Mine_d_or): written in C @ University of Fontainebleau
 - [Google Forms like](https://github.com/Williamarnoclement/QuizzMe): written in PHP and the Codeigniter Framework @ University of Fontainebleau
 - [Sudoku Grid Maker and Solver](https://github.com/Williamarnoclement/Sudoku): written in JAVA @ University of Fontainebleau
 - [Static Professional website](https://github.com/Williamarnoclement/Site-Internet-Professionnel) : written in HTML, CSS and JS @ University of Fontainebleau
