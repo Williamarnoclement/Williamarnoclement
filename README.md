@@ -45,6 +45,7 @@ I'm going to add much more projects here in a near future !
 # Professional work
 
 - [Software Directory](https://github.com/Williamarnoclement/Apperture): written in PHP Vanilla @ [Mairie de Vitry-sur-Seine, France](https://www.vitry94.fr)
+- [CSV file sync with Active Directory](https://github.com/Williamarnoclement/PowerSynchro): A script written in Powershell @ [Mairie de Vitry-sur-Seine, France](https://www.vitry94.fr)
 
 
 # Old projects I made when I started IT
