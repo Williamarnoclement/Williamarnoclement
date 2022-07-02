@@ -28,20 +28,21 @@ I'm going to add much more projects here in a near future !
 
 # Exercices and projects I made
 
-- [Implementation of Doomsday Algorithm](https://github.com/Williamarnoclement/tp-doomsday-rule): written in Python @Cnam ENJMIN in Angoulême
-- [Pathfinding work](https://github.com/Williamarnoclement/tp-plus-court-chemin): written in Python @Cnam ENJMIN in Angoulême
-- [Game of Life Experimentations](https://github.com/Williamarnoclement/tp-game-of-life): written in Python @Cnam ENJMIN in Angoulême
-- [Sorting algorithms](https://github.com/Williamarnoclement/tp-algo-tri): written in Python @Cnam ENJMIN in Angoulême
-- [Web Experiences](https://github.com/Williamarnoclement/ChristmasForce): made with VueJS @Cnam ENJMIN in Angoulême
+- [Implementation of Doomsday Algorithm](https://github.com/Williamarnoclement/tp-doomsday-rule): written in Python @ Cnam ENJMIN in Angoulême
+- [Pathfinding work](https://github.com/Williamarnoclement/tp-plus-court-chemin): written in Python @ Cnam ENJMIN in Angoulême
+- [Game of Life Experimentations](https://github.com/Williamarnoclement/tp-game-of-life): written in Python @ Cnam ENJMIN in Angoulême
+- [Sorting algorithms](https://github.com/Williamarnoclement/tp-algo-tri): written in Python @ Cnam ENJMIN in Angoulême
+- [Web Experiences](https://github.com/Williamarnoclement/ChristmasForce): made with VueJS @ Cnam ENJMIN in Angoulême
 - [How to use Wordpress API in Swift](https://github.com/Williamarnoclement/Use_Wordpress_API_in_Swift): made with Swift as Side Project
-- [Dungeon Maker](https://github.com/Williamarnoclement/Dungeon_Maker): written in JAVA according to MVC pattern design @University of Fontainebleau
-- [Google Forms like](https://github.com/Williamarnoclement/QuizzMe): written in PHP and the Codeigniter Framework @University of Fontainebleau
-- [Sudoku Grid Maker and Solver](https://github.com/Williamarnoclement/Sudoku): written in JAVA @University of Fontainebleau
-- [Static Professional website](https://github.com/Williamarnoclement/Site-Internet-Professionnel) : written in HTML, CSS and JS @University of Fontainebleau
+- [Microblogging Service](https://github.com/Williamarnoclement/Application_web_Microblogging): made with NodeJS @ University of Fontainebleau
+- [Dungeon Maker](https://github.com/Williamarnoclement/Dungeon_Maker): written in JAVA according to MVC pattern design @ University of Fontainebleau
+- [Google Forms like](https://github.com/Williamarnoclement/QuizzMe): written in PHP and the Codeigniter Framework @ University of Fontainebleau
+- [Sudoku Grid Maker and Solver](https://github.com/Williamarnoclement/Sudoku): written in JAVA @ University of Fontainebleau
+- [Static Professional website](https://github.com/Williamarnoclement/Site-Internet-Professionnel) : written in HTML, CSS and JS @ University of Fontainebleau
 
 # Professional work
 
-- [Software Directory](https://github.com/Williamarnoclement/Apperture): written in PHP Vanilla @[Mairie de Vitry-sur-Seine, France](https://www.vitry94.fr)
+- [Software Directory](https://github.com/Williamarnoclement/Apperture): written in PHP Vanilla @ [Mairie de Vitry-sur-Seine, France](https://www.vitry94.fr)
 
 
 # Old projects I made when I started IT
