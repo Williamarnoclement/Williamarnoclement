@@ -1,31 +1,36 @@
-Hello world 👋 Bonjour tout le monde 
+Making difference by laughing with you, not at you.
 
-### Who I am
+# Who I am
 
-My name is William CLEMENT. I’m a developer interested in computer graphics, arts and technologies.
+My name is William CLEMENT. I’m a developer interested ~~in computer graphics,~~ arts and technologies.
 
-My only dream is to create the sofware that will enable artists to fulfil their vision.
+My only dream is to ~~create the sofware that will enable artists to fulfil their vision.~~ be happy !
 
-You can contact me on my networks:
+# What I would like to build
 
-- [LinkedIn profile](https://www.linkedin.com/in/williamarnoclement/): My main professional network
+I think you should see what I do on my portfolio: [GRIFFURE.COM](https://www.griffure.com). Sometimes I write things on my blog [GRIFFURE.FR](https://www.griffure.fr) (in french) 
+
+# Where you can follow my creative path
+
+You can Play and Watch me on my networks:
+
 - [Youtube channel](https://www.youtube.com/channel/UCsQ1rKSCteahhHwCLJQbptA): Where you will find my animated shorts and visual creations
 - [Itch.io Page](https://griffure.itch.io/): A few video games I made
 
-### My work
+# My work
 
-On my Github profile, you'll find some of my productions. There are a lot of projects: a 3D animation software written in JAVA, an opensource software directory written in PHP Vanilla, and much more ! 
+On my Github profile, you'll find some of my productions. There are a lot of projects: a 3D software written in JAVA, a tool directory written in PHP Vanilla, and much more ! 
 
 I'm going to add much more projects here in a near future !
 
-## List of my repositories
+# List of my repositories
 
-# Personnal Work 
+## Personnal Work 
 
 - [Animware](https://github.com/Williamarnoclement/Animware) : A 3D animation software in JAVA
 - [Web Crawler](https://github.com/Williamarnoclement/Crawler) : A monothread web crawler written in JAVA
 
-# Exercices and projects I made
+## Exercices and projects I made
 
 - [Implementation of Doomsday Algorithm](https://github.com/Williamarnoclement/tp-doomsday-rule): written in Python @ Cnam ENJMIN in Angoulême
 - [Pathfinding work](https://github.com/Williamarnoclement/tp-plus-court-chemin): written in Python @ Cnam ENJMIN in Angoulême
@@ -41,28 +46,12 @@ I'm going to add much more projects here in a near future !
 - [Sudoku Grid Maker and Solver](https://github.com/Williamarnoclement/Sudoku): written in JAVA @ University of Fontainebleau
 - [Static Professional website](https://github.com/Williamarnoclement/Site-Internet-Professionnel) : written in HTML, CSS and JS @ University of Fontainebleau
 
-# Professional work
+## Professional work
 
 - [Software Directory](https://github.com/Williamarnoclement/Apperture): written in PHP Vanilla @ [Mairie de Vitry-sur-Seine, France](https://www.vitry94.fr)
 - [CSV file sync with Active Directory](https://github.com/Williamarnoclement/PowerSynchro): A script written in Powershell @ [Mairie de Vitry-sur-Seine, France](https://www.vitry94.fr)
 
 
-# Old projects I made when I started IT
+## Old projects I made when I started IT
 
 - [CMS without database](https://github.com/Williamarnoclement/Simple-CMS-Without-DB): Just an old work I made in 2015
-
-
-<!--
-**Williamarnoclement/Williamarnoclement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
