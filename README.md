@@ -15,7 +15,9 @@ I think you should see what I do on my portfolio: [GRIFFURE.COM](https://www.gri
 You can Play and Watch me on my networks:
 
 - [Youtube channel](https://www.youtube.com/channel/UCsQ1rKSCteahhHwCLJQbptA): Where you will find my animated shorts and visual creations
-- [Itch.io Page](https://griffure.itch.io/): A few video games I made
+- [Itch.io page](https://griffure.itch.io/): A few video games I made
+- [Mastodon profile](https://piaille.fr/@griffure): My social newsfeed
+
 
 # My work
 
