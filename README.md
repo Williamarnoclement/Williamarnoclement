@@ -2,7 +2,7 @@ Making difference by laughing with you, not at you.
 
 # Who I am
 
-My name is William CLEMENT. I’m a developer interested ~~in computer graphics,~~ arts and technologies.
+My name is William CLEMENT. I’m a developer interested arts and technologies.
 
 My only dream is to ~~create the sofware that will enable artists to fulfil their vision.~~ be happy !
 
