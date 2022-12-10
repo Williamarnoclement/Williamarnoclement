@@ -27,11 +27,9 @@ I'm going to add much more projects here in a near future !
 
 ## Personnal Work 
 
-- [Animware](https://github.com/Williamarnoclement/Animware) : A 3D animation software in JAVA
-- [Web Crawler](https://github.com/Williamarnoclement/Crawler) : A monothread web crawler written in JAVA
-
-## Exercices and projects I made
-
+- [Animware](https://github.com/Williamarnoclement/Animware) : A 3D software in JAVA without OpenGL
+- [Web Crawler](https://github.com/Williamarnoclement/Crawler) : A simple monothread web crawler written in JAVA
+- [Old shell scripts I made](https://github.com/Williamarnoclement/old_shell_scripts): For MacOS and Unix @ my student bedroom
 - [Implementation of Doomsday Algorithm](https://github.com/Williamarnoclement/tp-doomsday-rule): written in Python @ Cnam ENJMIN in Angoulême
 - [Pathfinding work](https://github.com/Williamarnoclement/tp-plus-court-chemin): written in Python @ Cnam ENJMIN in Angoulême
 - [Game of Life Experimentations](https://github.com/Williamarnoclement/tp-game-of-life): written in Python @ Cnam ENJMIN in Angoulême
