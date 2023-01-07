@@ -4,8 +4,6 @@ Making difference by laughing with you, not at you.
 
 My name is William CLEMENT. I’m a developer interested arts and technologies.
 
-My only dream is to ~~create the sofware that will enable artists to fulfil their vision.~~ be happy !
-
 # What I would like to build
 
 I think you should see what I do on my portfolio: [GRIFFURE.COM](https://www.griffure.com). Sometimes I write things on my blog [GRIFFURE.FR](https://www.griffure.fr) (in french) 
