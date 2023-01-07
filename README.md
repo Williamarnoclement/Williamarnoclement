@@ -11,14 +11,11 @@ You can Play and Watch me on my networks:
 
 - [Youtube channel](https://www.youtube.com/channel/UCsQ1rKSCteahhHwCLJQbptA): Where you will find my animated shorts and visual creations
 - [Itch.io page](https://griffure.itch.io/): A few video games I made
-- [Mastodon profile](https://piaille.fr/@griffure): My social newsfeed
 
 
 # My work
 
 On my Github profile, you'll find some of my productions. There are a lot of projects: a 3D software written in JAVA, a tool directory written in PHP Vanilla, and much more ! 
-
-I'm going to add much more projects here in a near future !
 
 # List of my repositories
 
