@@ -1,5 +1,3 @@
-Making difference by laughing with you, not at you.
-
 # Who I am
 
 My name is William CLEMENT. I’m a developer interested arts and technologies.
