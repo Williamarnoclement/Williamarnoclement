@@ -22,6 +22,7 @@ On my Github profile, you'll find some of my productions. There are a lot of pro
 - [Animware](https://github.com/Williamarnoclement/Animware) : A 3D software in JAVA without OpenGL @ my student bedroom
 - [Web Crawler](https://github.com/Williamarnoclement/Crawler) : A simple monothread web crawler written in JAVA @ my student bedroom
 - [Dark Wordpress Theme](https://github.com/Williamarnoclement/dark_bigscreen_wp_theme) : A Wordpress theme I did for my portfolio a long time ago @ my student bedroom
+- [Smart Scanner](https://github.com/Williamarnoclement/Scanner-Intelligent): Using Scikit image & scipy to create a Office Lens-like app
 - [Old shell scripts I made](https://github.com/Williamarnoclement/old_shell_scripts): For MacOS and Unix @ my student bedroom
 - [Implementation of Doomsday Algorithm](https://github.com/Williamarnoclement/tp-doomsday-rule): written in Python @ Cnam ENJMIN in Angoulême
 - [Pathfinding work](https://github.com/Williamarnoclement/tp-plus-court-chemin): written in Python @ Cnam ENJMIN in Angoulême
@@ -46,3 +47,4 @@ On my Github profile, you'll find some of my productions. There are a lot of pro
 ## Old projects I made when I started IT
 
 - [CMS without database](https://github.com/Williamarnoclement/Simple-CMS-Without-DB): Just an old work I made in 2015
+- [Meta-search engine](https://github.com/Williamarnoclement/Summiz): I've been working on during a few weeks in 2016, trying to play with UX pattern on a meta web search engine
