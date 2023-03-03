@@ -6,9 +6,12 @@ My name is William CLEMENT. I’m a developer interested arts and technologies.
 
 You can Play and Watch me on my networks:
 
-- [Portfolio](https://www.griffure.com): My website
+- [Main Website](https://www.wac.pictures/): where you can discover my tech stack
+- [Art Website](https://www.griffure.com): because if I want to understand artists, I need to become one of them !
 - [Youtube channel](https://www.youtube.com/channel/UCsQ1rKSCteahhHwCLJQbptA): Where you will find my animated shorts and visual creations
-- [Itch.io page](https://griffure.itch.io/): A few video games I made as personal project
+- [Itch.io page](https://griffure.itch.io/): A few video games I made as personal project (Unity, Blender, C#)
+
+And if you can read french, I also write articles about [art and science](https://blog.griffure.com/).
 
 # Open-source
 
