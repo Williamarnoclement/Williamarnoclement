@@ -19,7 +19,7 @@ On my Github profile, you'll find some of my productions. There are a lot of pro
 
 ## Personnal Work 
 
-- [Animware](https://github.com/Williamarnoclement/Animware) : A 3D software in JAVA without (v1) and with (v2) OpenGL
+- [Animware](https://github.com/Williamarnoclement/Animware) : A 3D software in JAVA without (v1, inspired by [an old work](https://github.com/Williamarnoclement/Renderer)) and with (v2) OpenGL
 - [Web Crawler](https://github.com/Williamarnoclement/Crawler) : A simple monothread web crawler written in JAVA
 - [Dark Wordpress Theme](https://github.com/Williamarnoclement/dark_bigscreen_wp_theme) : A Wordpress theme I did for my portfolio a long time ago
 - [Smart Scanner](https://github.com/Williamarnoclement/Scanner-Intelligent): Using Scikit image & scipy to create a Office Lens-like app
@@ -37,6 +37,7 @@ On my Github profile, you'll find some of my productions. There are a lot of pro
 - [Google Forms like](https://github.com/Williamarnoclement/QuizzMe): written in PHP and the Codeigniter Framework
 - [Sudoku Grid Maker and Solver](https://github.com/Williamarnoclement/Sudoku): written in JAVA
 - [Static Professional website](https://github.com/Williamarnoclement/Site-Internet-Professionnel) : written in HTML, CSS and JS
+- [Static onepage blog](https://github.com/Williamarnoclement/onepage-blog): written in HTML and CSS
 
 ## Professional work
 
