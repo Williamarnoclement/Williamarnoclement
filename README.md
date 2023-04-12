@@ -1,6 +1,6 @@
-# Who I am
+# Hi 👋 I'm William
 
-My name is William CLEMENT. I’m a developer interested arts and technologies.
+I'm a software developer working in Paris, France.
 
 # Where you can discover my work
 
@@ -11,7 +11,7 @@ You can Play and Watch me on my networks:
 - [Youtube channel](https://www.youtube.com/channel/UCsQ1rKSCteahhHwCLJQbptA): Where you will find my animated shorts and visual creations
 - [Itch.io page](https://griffure.itch.io/): A few video games I made as personal project (Unity, Blender, C#)
 
-And if you can read french, I also write articles about [art and science](https://blog.griffure.com/).
+And if you can read french, I also write articles about [art and science](https://www.griffure.com/).
 
 # Open-source
 
