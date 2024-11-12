@@ -6,12 +6,11 @@ I'm a software developer working in Paris, France.
 
 You can Play and Watch me on my networks:
 
-- [Main Website](https://www.wac.pictures/): where you can discover my tech stack
-- [Art Website](https://www.griffure.com): because if I want to understand artists, I need to become one of them !
-- [Youtube channel](https://www.youtube.com/channel/UCsQ1rKSCteahhHwCLJQbptA): Where you will find my animated shorts and visual creations
-- [Itch.io page](https://griffure.itch.io/): A few video games I made as personal project (Unity, Blender, C#)
+- [Main Website](https://www.griffure.com): Arts & Sciences
+- [Art Website](https://www.WilliamArnoClement.com): Filmmaker & director
+- [Youtube channel](https://www.youtube.com/@GRIFFURE): Where you will find my animated shorts and visual creations
 
-And if you can read french, I also write articles about [art and science](https://www.griffure.com/).
+And if you can read french, I also write articles about [art and science](https://www.griffure.com/blog).
 
 # Open-source
 
