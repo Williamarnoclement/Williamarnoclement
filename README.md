@@ -6,11 +6,10 @@ I'm a software developer working in Paris, France.
 
 You can Play and Watch me on my networks:
 
-- [Main Website](https://www.griffure.com): Arts & Sciences
-- [Art Website](https://www.WilliamArnoClement.com): Filmmaker & director
+- [Art Website](https://www.WilliamArnoClement.com): Website
 - [Youtube channel](https://www.youtube.com/@GRIFFURE): Where you will find my animated shorts and visual creations
 
-And if you can read french, I also write articles about [art and science](https://www.griffure.com/blog).
+And if you can read french, I also write articles about [art and science](https://www.WilliamArnoClement.com/blog).
 
 # Open-source
 
