@@ -1,21 +1,16 @@
 # Hi 👋 I'm William
 
-I'm a software developer working in Paris, France.
+I'm William, software developer working in Paris, France.
 
 # Where you can discover my work
 
-You can Play and Watch me on my networks:
+You can discover my work on [Art Website](https://www.WilliamArnoClement.com).
 
-- [Art Website](https://www.WilliamArnoClement.com): Website
-- [Youtube channel](https://www.youtube.com/@GRIFFURE): Where you will find my animated shorts and visual creations
+And if you can read french, I also write articles on my [journal]([https://www.WilliamArnoClement.com/blog](https://www.williamarnoclement.com/journal/)).
 
-And if you can read french, I also write articles about [art and science](https://www.WilliamArnoClement.com/blog).
+# Open-source projects
 
-# Open-source
-
-On my Github profile, you'll find some of my productions. There are a lot of projects: a 3D software written in JAVA, a tool directory written in PHP Vanilla, and much more ! 
-
-## Personnal Work 
+On my Github profile, you'll find some of my productions. There are a lot of projects.
 
 - [Animware](https://github.com/Williamarnoclement/Animware) : A 3D software in JAVA without (v1, inspired by [an old work](https://github.com/Williamarnoclement/Renderer)) and with (v2) OpenGL
 - [Web Crawler](https://github.com/Williamarnoclement/Crawler) : A simple monothread web crawler written in JAVA
@@ -36,14 +31,5 @@ On my Github profile, you'll find some of my productions. There are a lot of pro
 - [Sudoku Grid Maker and Solver](https://github.com/Williamarnoclement/Sudoku): written in JAVA
 - [Static Professional website](https://github.com/Williamarnoclement/Site-Internet-Professionnel) : written in HTML, CSS and JS
 - [Static onepage blog](https://github.com/Williamarnoclement/onepage-blog): written in HTML and CSS
-
-## Professional work
-
 - [Software Directory](https://github.com/Williamarnoclement/Apperture): written in PHP Vanilla @ [Mairie de Vitry-sur-Seine, France](https://www.vitry94.fr)
 - [CSV file sync with Active Directory](https://github.com/Williamarnoclement/PowerSynchro): A script written in Powershell @ [Mairie de Vitry-sur-Seine, France](https://www.vitry94.fr)
-
-
-## Old projects I made when I started IT
-
-- [CMS without database](https://github.com/Williamarnoclement/Simple-CMS-Without-DB): Just an old work I made in 2015
-- [Meta-search engine](https://github.com/Williamarnoclement/Summiz): I've been working on during a few weeks in 2016, trying to play with UX pattern on a meta web search engine
