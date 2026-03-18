@@ -4,7 +4,7 @@ I'm William, software developer working in Paris, France.
 
 # Where you can discover my work
 
-You can discover my work on [Art Website](https://www.WilliamArnoClement.com).
+You can discover my work on [website](https://www.WilliamArnoClement.com).
 
 And if you can read french, I also write articles on my [journal]([https://www.WilliamArnoClement.com/blog](https://www.williamarnoclement.com/journal/)).
 
