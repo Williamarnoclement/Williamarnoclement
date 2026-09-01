@@ -12,7 +12,6 @@ And if you can read french, I also write articles on my [journal]([https://www.W
 
 On my Github profile, you'll find some of my productions. There are a lot of projects.
 
-- [Animware](https://github.com/Williamarnoclement/Animware) : A 3D software in JAVA without (v1, inspired by [an old work](https://github.com/Williamarnoclement/Renderer)) and with (v2) OpenGL
 - [Web Crawler](https://github.com/Williamarnoclement/Crawler) : A simple monothread web crawler written in JAVA
 - [Dark Wordpress Theme](https://github.com/Williamarnoclement/dark_bigscreen_wp_theme) : A Wordpress theme I did for my portfolio a long time ago
 - [Smart Scanner](https://github.com/Williamarnoclement/Scanner-Intelligent): Using Scikit image & scipy to create a Office Lens-like app
